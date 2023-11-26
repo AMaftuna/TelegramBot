@@ -1,17 +1,15 @@
 # TelegramBot - OnlineShopBot - Python
 
 Список команд:
-
-/start - Зарегистрироваться в боте
-
-/profile - Профиль
-
+/start - Запустить бот
+/myprofile - Профиль
 /donate - Пополнить счёт
-
 /buy - Купить товар
-
-/help - Помощь по командам
-
+/help - Помощь
 /mybuy - Список купленных товаров
-
 /teh - Связаться с тех.поддержкой
+
+# Установка
+git clone git@github.com:AMaftuna/TelegramBot.git
+Запускаете файл main.py
+Находите в телеграме бота @best_online_shop_bot и нажимаете /start
